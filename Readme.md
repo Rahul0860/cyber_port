@@ -36,22 +36,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <!---<img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />--->
     <img src="https://img.shields.io/badge/-Tcpdump-007CBA?&style=for-the-badge&logo=Tcpdump&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-FF0000?&style=for-the-badge&logo=Nmap&logoColor=white&logoWidth=20" />
     <img src="https://img.shields.io/badge/-Nmap-005571?&style=for-the-badge&logo=Elastic&logo=Nmap&logoColor=white" />
 
 
-    
-
-
-
-
-
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
 ### SIEM
@@ -61,9 +48,27 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+### More 
 <div>
+    <img src="https://img.shields.io/badge/-Metasploit-007BFF?&style=for-the-badge&logo=Metasploit&logoColor=white" />  
+    <img src="https://img.shields.io/badge/-SQL-008080?&style=for-the-badge&logo=PostgreSQL&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VirtualBox-FFF5EE?&style=for-the-badge&logo=VirtualBox&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Python-191970?&style=for-the-badge&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus-007BFF?&style=for-the-badge&logo=Nessus&logoColor=white" />
+    
+
+
+    
+   <!--- <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>--->
+
+
+## Certifications
+<div>
+<img alt="Static Badge" src="https://img.shields.io/badge/Cyber_Cert-black?style=for-the-badge&logo=google&logoSize=amg&labelColor=green">
+<img alt="Static Badge" src="https://img.shields.io/badge/CC-geen?style=for-the-badge&logo=isc2&logoColor=%23FFFFFF&logoSize=auto&labelColor=green">
+
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
