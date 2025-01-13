@@ -16,14 +16,14 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Skills
 | Projects | Skills/Knowledge Gained | 
 | :--- |:---:|
-| [1](*LINK*) - Conduct a security audit | `INFOSEC`, `NIST Risk Management Framework`, `Security Audits`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `CISSP`, `CIA triad` |
-| [2](*LINK*) - Network Security | `TCP/IP model`,  `Network Architecture`, `Network Communication`, `Security Hardening`, `Network Security`, `Cloud Networks` | 
-| [3](*LINK*) - Linux & SQL | `Command-line Interface`, `SQL`, `Linux`, `Bash` | 
-| [4](*LINK*) - Assets, Threats, & Vulnerabilities | `Authentication`, ` Vulnerability assessment`, `Cryptography`, `Asset Classification`, `Threat Modelling Analysis`|
-| [5](*LINK*) - Detection & Response | `Incident Lifecycle`, `Incident Journal` |
-| [6](*LINK*) - Tcpdump & Wireshark | `Packet Analyzer` | 
-| [7](*LINK*) - IDS & SIEM | `Intrusion Detection System (IDS): Suricata`, `Security Information and Event Management (SIEM): Chronicle, Splunk` |
-| [8](*LINK*) - Automation with Python | `Computer Programming`, `Python Programming`, `Coding`, `PEP 8 Style Guide`| 
+| [1](https://github.com/Rahul0860/cyber_port/tree/e8807c198707118f4866642278ee6acd8994c913/01%20Conduct%20an%20Audit) - Conduct a security audit | `INFOSEC`, `NIST Risk Management Framework`, `Security Audits`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `CISSP`, `CIA triad` |
+| [2](https://github.com/Rahul0860/cyber_port/tree/e8807c198707118f4866642278ee6acd8994c913/02%20Network%20Security) - Network Security | `TCP/IP model`,  `Network Architecture`, `Network Communication`, `Security Hardening`, `Network Security`, `Cloud Networks` | 
+| [3](https://github.com/Rahul0860/cyber_port/tree/e8807c198707118f4866642278ee6acd8994c913/03%20Linux%20%26%20SQL) - Linux & SQL | `Command-line Interface`, `SQL`, `Linux`, `Bash` | 
+| [4](https://github.com/Rahul0860/cyber_port/tree/e8807c198707118f4866642278ee6acd8994c913/04%20Assets%2C%20Threats%2C%20%26%20Vulnerabilities) - Assets, Threats, & Vulnerabilities | `Authentication`, ` Vulnerability assessment`, `Cryptography`, `Asset Classification`, `Threat Modelling Analysis`|
+| [5](https://github.com/Rahul0860/cyber_port/tree/e8807c198707118f4866642278ee6acd8994c913/05%20Detection%20%26%20Response) - Detection & Response | `Incident Lifecycle`, `Incident Journal` |
+| [6](https://github.com/Rahul0860/cyber_port/tree/e8807c198707118f4866642278ee6acd8994c913/06%20Tcpdump%20%26%20Wireshark) - Tcpdump & Wireshark | `Packet Analyzer` | 
+| [7](https://github.com/Rahul0860/cyber_port/tree/e8807c198707118f4866642278ee6acd8994c913/07%20%20IDS%20%26%20SIEM) - IDS & SIEM | `Intrusion Detection System (IDS): Suricata`, `Security Information and Event Management (SIEM): Chronicle, Splunk` |
+| [8](*Link*) - Automation with Python | `Computer Programming`, `Python Programming`, `Coding`, `PEP 8 Style Guide`| 
 
 
 
@@ -43,7 +43,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
@@ -76,7 +75,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 
-Commingsoon...
+<a href="https://github.com/Rahul0860/cyber_port/tree/e8807c198707118f4866642278ee6acd8994c913/Automation%20with%20Python">password strength checker!t</a>
+
 
   
 <!---
