@@ -66,19 +66,17 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Certifications
 <div>
-<img alt="Static Badge" src="https://img.shields.io/badge/Cyber_Cert-black?style=for-the-badge&logo=google&logoSize=amg&labelColor=green">
-<img alt="Static Badge" src="https://img.shields.io/badge/CC-geen?style=for-the-badge&logo=isc2&logoColor=%23FFFFFF&logoSize=auto&labelColor=green">
+<img src="https://img.shields.io/badge/-Cyber_Cert-000000?&style=for-the-badge&logo=Google&logoColor=white&labelColor=green" />
+<img src="https://img.shields.io/badge/CC-green?style=for-the-badge&logo=isc2&logoSize=auto">
 
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+
+
+
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+
+Commingsoon...
 
   
 <!---
