@@ -77,7 +77,7 @@ This function provides an interactive command-line interface for checking passwo
 
 ## Example
 
-Welcome to the Enhanced Password Strength Checker!Enter your password (or type 'exit' to quit): myPassword123!Enter custom requirements (e.g., min_length=12,has_special=False, or leave blank for default):Strength: [32mStrong[0mDetails: Password meets all requirementsScore: 4Enter your password (or type 'exit' to quit): weakpassEnter custom requirements (e.g., min_length=12,has_special=False, or leave blank for default):Strength: [31mVery Weak[0mDetails: Password is in the list of known weak passwordsScore: 0Enter your password (or type 'exit' to quit): exitThank you for using this tool!
+Welcome to the Enhanced Password Strength Checker!Enter your password (or type 'exit' to quit): myPassword123!Enter custom requirements (e.g., min_length=12,has_special=False, or leave blank for default):Strength: \033[32mStrong\033[0mDetails: Password meets all requirementsScore: 4Enter your password (or type 'exit' to quit): weakpassEnter custom requirements (e.g., min_length=12,has_special=False, or leave blank for default):Strength: \033[31mVery Weak\033[0mDetails: Password is in the list of known weak passwordsScore: 0Enter your password (or type 'exit' to quit): exitThank you for using this tool!
 ## Potential Use Cases
 
 * **Password Policy Enforcement:** This tool can be used to enforce password policies in organizations or applications.
