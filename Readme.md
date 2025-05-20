@@ -4,8 +4,7 @@
 <a href="">
 
 <p align="justify">
-With a Bachelor’s degree in Mechanical Engineering and a Post Graduate Diploma in Computer Applications, I bring a unique blend of technical expertise and analytical prowess. I’ve successfully completed the Google Cybersecurity Professional Certificate and the ISC2 Certified in Cybersecurity (CC). Currently, I am enhancing my skills with a Network Defense certification from Cisco.
-My experience in machine design using SolidWorks has honed my ability to tackle complex challenges. Passionate about technology and security, I am committed to protecting digital environments with robust measures. I am eager to leverage my diverse skill set and ongoing cybersecurity training to help organizations safeguard their digital assets.
+Combining a strong foundation in Mechanical Engineering and Computer Applications, I bring a unique ability to tackle complex security challenges. My passion for technology and security is backed by certifications from Google and ISC2, along with ongoing training in Cisco Network Defense. Eager to apply this diverse skill set, I am committed to delivering robust measures that safeguard digital environments.
 <p/>
     
 <!---## Objective
