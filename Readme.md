@@ -89,13 +89,13 @@ For several CTF labs, I create detailed PDF reports documenting my step-by-step 
 
 **Description:** A brief description of what the password checker does.
 
-**How to Use:** [Instructions](#usage-password_checker_2)
+**How to Use:** [Instructions](https://github.com/Rahul0860/cyber_port/blob/main/Automation%20with%20Python/Password_Strength_Checker_Manual.md)
 
-**Code:** [View Source Code](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME/blob/main/password_checker_2.py)
+**Code:** [View Source Code](https://github.com/Rahul0860/cyber_port/blob/main/Automation%20with%20Python/password_checker_2.py)
 
 ---
 
-### 🐍 another_project.py
+### 🐍 PcapFile Analysis.py
 
 **Description:** A short explanation of this other Python project.
 
