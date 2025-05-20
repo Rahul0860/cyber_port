@@ -83,6 +83,38 @@ For several CTF labs, I create detailed PDF reports documenting my step-by-step 
 
 **Please replace the "[Link to your https://www.google.com/search?q=... Lab PDF Report]" placeholders above with the actual shareable links to your PDF reports for each lab.** Ensure these links are accessible to viewers.
 
+## 🚀 My Personal Projects & Explorations 🔭
+
+### 📂 password_checker_2.py
+
+**Description:** A brief description of what the password checker does.
+
+**How to Use:** [Instructions](#usage-password_checker_2)
+
+**Code:** [View Source Code](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME/blob/main/password_checker_2.py)
+
+---
+
+### 🐍 another_project.py
+
+**Description:** A short explanation of this other Python project.
+
+**How to Use:** [Usage Guide](#usage-another_project)
+
+**Code:** [See the Code](https://github.com/YOUR_USERNAME/ANOTHER_REPOSITORY/blob/main/another_project.py)
+
+---
+
+### ✨ yet_another_tool.py
+
+**Description:** What this tool is all about in a few words.
+
+**How to Use:** [Quick Start](#usage-yet_another_tool)
+
+**Code:** [Code on GitHub](https://github.com/YOUR_USERNAME/YET_ANOTHER_REPO/blob/main/yet_another_tool.py)
+
+---
+
 ## What's Next? 🚀
 
 This portfolio is a living document, constantly evolving as I acquire new certifications and complete more projects. Stay tuned for exciting updates showcasing my growing expertise!
