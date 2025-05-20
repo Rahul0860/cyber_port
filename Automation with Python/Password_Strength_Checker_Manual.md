@@ -1,4 +1,6 @@
-# Password Strength Checker Manual
+# Password Strength Checker Manual 
+[Code](https://github.com/Rahul0860/cyber_port/blob/main/Automation%20with%20Python/password_checker_2.py)
+
 
 ## Introduction
 
